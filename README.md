@@ -32,3 +32,9 @@ Copy to Clipboard
 Click the code box to copy the gradient’s CSS.
 
 A “✅ Copied!” popup confirms the action.
+
+<img width="1364" height="632" alt="image" src="https://github.com/user-attachments/assets/b0c58d23-b948-484a-a21c-4bec115fe331" />
+
+<img width="1362" height="633" alt="image" src="https://github.com/user-attachments/assets/206eec94-fc04-4004-82e5-c9edae140361" />
+
+
